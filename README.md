@@ -30,7 +30,7 @@ Step5:
 End the program Once the robot has reached the end of the path, stop the program or execute any additional tasks required. Print a message or perform any necessary cleanup steps before terminating the program.
 
 ## Program
-```
+```python
 from robomaster import robot
 import time
 from robomaster import camera
